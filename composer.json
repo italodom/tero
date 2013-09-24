@@ -1,6 +1,7 @@
 {
     "name": "terophp/tero-framework",
     "type": "library",
+    "license": "MIT",
     "homepage": "http://github.com/gabrielricci/tero",
     "authors": [
         {
